@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phu Nguyen</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Typescript, Nestjs**
 
 - 📫 How to reach me **haiphu95.pdp@gmail.com**
 
