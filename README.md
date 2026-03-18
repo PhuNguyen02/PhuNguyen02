@@ -73,8 +73,6 @@
 
 ## 📫 Contact
 - Email: haiphu95.pdp@gmail.com  
-- GitHub: https://github.com/YOUR_USERNAME  
-- Facebook: https://www.facebook.com/profile.php?id=100037299450304  
 
 ---
 
