@@ -33,21 +33,6 @@
 
 ---
 
-## 🔥 Highlight Projects
-
-### 💳 Payment Request & Notification System
-- Designed and implemented an end-to-end payment request flow  
-- Built system to send payment requests with unique payment codes  
-- Developed both frontend (React) and backend (Node.js API)  
-- Applied performance optimization and clean architecture  
-
----
-
-### 🏢 Booking & Construction Tracking System
-- Developed UI from Figma with pixel-perfect implementation  
-- Optimized performance (~20%) using code splitting & lazy loading  
-- Integrated backend APIs and handled complex data flows  
-
 ---
 
 ## 📫 Contact
