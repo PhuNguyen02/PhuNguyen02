@@ -1,22 +1,62 @@
-<h1 align="center">Hi 👋, I'm Phu Nguyen</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Phu Nguyen</h1>
+<h3 align="center">Frontend Developer | ReactJS • Next.js • TypeScript</h3>
 
-- 🌱 I’m currently learning **Typescript, Nestjs**
+---
 
-- 📫 How to reach me **haiphu95.pdp@gmail.com**
+## 🚀 About Me
+- Frontend-focused developer with ~2 years of experience building scalable web applications  
+- Strong in **ReactJS, Next.js, TypeScript** and modern UI architecture  
+- Experienced in **analyzing requirements, writing BD/DD documents, and designing systems**  
+- Expanding into **fullstack development with Node.js & NestJS**
 
-- ⚡ Fun fact **I'm a funny guy**
+---
 
+## 🛠 Tech Stack
 
+### Frontend
+- ReactJS, Next.js, TypeScript
+- TailwindCSS, SCSS
+- Redux Toolkit, Context API
+- Ant Design, Material UI
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100037299450304)    [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Fusnek0212) 
+### Backend
+- Node.js, Express, NestJS
+- RESTful API, JWT Authentication
 
+### Database
+- MySQL, SQL Server, DynamoDB
 
-# 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-<p align="left">
-</p>
+### DevOps & Tools
+- Docker, Docker Compose
+- Git (branching, workflow)
+- Postman, VS Code
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
+
+## 🔥 Highlight Projects
+
+### 💳 Payment Request & Notification System
+- Designed and implemented an end-to-end payment request flow  
+- Built system to send payment requests with unique payment codes  
+- Developed both frontend (React) and backend (Node.js API)  
+- Applied performance optimization and clean architecture  
+
+---
+
+### 🏢 Booking & Construction Tracking System
+- Developed UI from Figma with pixel-perfect implementation  
+- Optimized performance (~20%) using code splitting & lazy loading  
+- Integrated backend APIs and handled complex data flows  
+
+---
+
+## 📫 Contact
+- Email: haiphu95.pdp@gmail.com  
+- Facebook: https://www.facebook.com/profile.php?id=100037299450304  
+
+---
+
+## ⚡ Focus
+- System design & scalable frontend architecture  
+- Fullstack development (React + Node.js)  
+- Performance optimization & clean code  
